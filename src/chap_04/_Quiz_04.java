@@ -19,7 +19,7 @@ public class _Quiz_04 {
         if (jang || kyung) {
             sum_price /= 2;
         }
-        System.out.println("최종 주차요금은"+sum_price+"입니다.");
+        System.out.println("최종 주차요금은"+sum_price+"입니다.");///test
 
     }
 }
