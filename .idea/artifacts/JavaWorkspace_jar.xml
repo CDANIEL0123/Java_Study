@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaWorkspace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaWorkspace_jar</output-path>
+    <root id="archive" name="JavaWorkspace.jar">
+      <element id="module-output" name="JavaWorkspace" />
+    </root>
+  </artifact>
+</component>
